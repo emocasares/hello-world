@@ -6,3 +6,5 @@ Desde R Studio, no puedo usar markdown porque me pide instalat htmltools y markd
 Tampoco puedo seguir el tutorial a partir de la figura 3, porque usa nano y no lo tengo instalado. Intent√© instalarlo desde la comsola y tampoco pude. 
 
 22 Marzo 2016. El problema de rmarkdown se produc√≠a cuando se intentaba instalar desde Git Bash. Pero pude hacerlo desde R Studio directamente con Tools/Install Packages. En ese caso descarg√≥ paquetes binarios para rmarkdown y htmltools al C:/users/casares... pero no se vio que compilara ni nada de eso.
+
+AÒado esta lÌnea desde el archivo local para ver cÛmo debo subirla al servidor. Creo qeu hay una forma de hacer drag and drop all·.
