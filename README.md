@@ -4,3 +4,5 @@ Este repositorio fue creado desde el servidor en línea. Pero también instalé 
 Luego intenté conectarlos desde GitBush y también publicarlo, pero aparentemente el creado localmente es privado (aunque nunca me preguntó) pues me dio ese error.
 Desde R Studio, no puedo usar markdown porque me pide instalat htmltools y markdown. Pero en el 1ero. da error de compilación.
 Tampoco puedo seguir el tutorial a partir de la figura 3, porque usa nano y no lo tengo instalado. Intenté instalarlo desde la comsola y tampoco pude. 
+
+22 Marzo 2016. El problema de rmarkdown se producía cuando se intentaba instalar desde Git Bash. Pero pude hacerlo desde R Studio directamente con Tools/Install Packages. En ese caso descargó paquetes binarios para rmarkdown y htmltools al C:/users/casares... pero no se vio que compilara ni nada de eso.
